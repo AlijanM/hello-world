@@ -1,0 +1,37 @@
+07/09/2020 10:50:46 - SortInvoice - INFO: Element found with locator: username and  locatorType: id
+07/09/2020 10:50:46 - SortInvoice - INFO: Sent data on element with locator: username locatorType: id
+07/09/2020 10:50:46 - SortInvoice - INFO: Element found with locator: login and  locatorType: id
+07/09/2020 10:50:46 - SortInvoice - INFO: Sent data on element with locator: login locatorType: id
+07/09/2020 10:50:46 - SortInvoice - INFO: Element found with locator: //input[@class='form-button'] and  locatorType: xpath
+07/09/2020 10:50:53 - SortInvoice - INFO: Clicked on element with locator: //input[@class='form-button'] locatorType: xpath
+07/09/2020 10:50:53 - SortInvoice - INFO: Element found with locator: //div[@id='message-popup-window']//a[@title='close'] and  locatorType: xpath
+07/09/2020 10:50:54 - SortInvoice - INFO: Clicked on element with locator: //div[@id='message-popup-window']//a[@title='close'] locatorType: xpath
+07/09/2020 10:50:54 - SortInvoice - INFO: Element found with locator: //span[contains(text(),'Sales')] and  locatorType: xpath
+07/09/2020 10:50:54 - SortInvoice - INFO: Clicked on element with locator: //span[contains(text(),'Sales')] locatorType: xpath
+07/09/2020 10:50:54 - SortInvoice - INFO: Element found with locator: //span[contains(text(),'Invoices')] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Clicked on element with locator: //span[contains(text(),'Invoices')] locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Element list FOUND with locator: //table[@id='sales_invoice_grid_table']/tbody/tr and locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[1]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Mar 6, 2020 5:56:50 PM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[2]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Jan 28, 2020 11:38:27 PM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[3]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Dec 12, 2019 9:20:18 AM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[4]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Jun 16, 2019 9:14:09 AM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[5]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Jun 16, 2019 7:17:25 AM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[6]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'May 26, 2019 10:41:18 AM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[7]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'May 4, 2017 7:41:10 AM'
+07/09/2020 10:50:55 - SortInvoice - INFO: Element found with locator: //table[@id='sales_invoice_grid_table']/tbody/tr[8]/td[3] and  locatorType: xpath
+07/09/2020 10:50:55 - SortInvoice - INFO: Getting text on element :: 
+07/09/2020 10:50:55 - SortInvoice - INFO: The text is :: 'Aug 23, 2014 7:12:37 AM'
